@@ -4,7 +4,6 @@ channels:
   - https://repo.mamba.pm/conda-forge
 dependencies:
   - ipycanvas
-  - openssl
   - pip:
     - ./urllib3-2.1.0-py3-none-any.whl
     - ./frozenlist-1.4.0-py3-none-any.whl
